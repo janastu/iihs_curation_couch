@@ -4,7 +4,7 @@ CouchDB Service is integarted with Superlogin Service for Storing the data in Da
 
 
 ## Deployment for Docker 
-The CouchDB configurations are loaded from local.ini file.
+The CouchDB configurations are loaded from local.ini file to connect with superlogin service.
 
 ## Configurations to be done in local.ini
 
