@@ -33,7 +33,7 @@ Download the Couchdb  from the [CouchDb Officical site](http://couchdb.apache.or
 
 Install the CouchDB, after successfull installation 
 
-Open the CouchDB Web Interface and configure the admin username and passowrd
+Open the CouchDB Web Interface and configure the admin username and password
 
       http://localhost:portno/_utils
       (Eg: http://localhost:5984/_utils)
