@@ -4,7 +4,7 @@ CouchDB Service is integarted with Superlogin Service for Storing the data in Da
 
 The CouchDB configurations are loaded from local.ini file.
 
-##Configurations to be done in local.ini
+## Configurations to be done in local.ini
 
 - Admin Username and Password
 
